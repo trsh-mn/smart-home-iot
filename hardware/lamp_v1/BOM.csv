@@ -1,0 +1,8 @@
+"Comment";"Designator";"Footprint";"";"";"";
+100n;"C1";"C_0805_2012Metric";;"";;;
+1000u;"C2";"CP_Radial_D8.0mm_P3.50mm";;"";;;
+Conn_01x03;"J3";"PinHeader_1x03_P2.54mm_Vertical";;"";;;
+Conn_01x02;"J4";"PinHeader_1x02_P2.54mm_Vertical";;"";;;
+Conn_01x08;"J5, J6";"PinSocket_1x08_P2.54mm_Vertical";;"";;;
+330;"R1";"R_0805_2012Metric";;"";;;
+74AHCT125;"U1";"SOIC-14_3.9x8.7mm_P1.27mm";;"";;;

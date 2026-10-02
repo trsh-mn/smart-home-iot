@@ -1,0 +1,6 @@
+# 라즈베리파이 (Python 3.13)에서 사용한 버전
+google-genai==2.21.0
+paho-mqtt==2.1.0
+edge-tts==7.2.8
+apscheduler==3.11.3
+audioop-lts==0.2.2  # Python 3.13부터 기본 audioop 모듈이 빠져서 필요

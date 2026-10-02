@@ -1,0 +1,30 @@
+# ---- 비밀 정보 (절대 올리지 않음) ----
+secrets.h
+.env
+
+# ---- macOS ----
+.DS_Store
+
+# ---- ESP-IDF 빌드 결과물 ----
+build/
+managed_components/
+sdkconfig.old
+
+# ---- Python ----
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ---- 서버 실행 중 생기는 파일 ----
+server/_*.raw
+server/_*.mp3
+server/lamp_state.json
+
+# ---- KiCad 자동 생성 파일 ----
+*.kicad_prl
+*-backups/
+.history/
+~*.lck
+fp-info-cache
+*.bak
